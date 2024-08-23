@@ -1,7 +1,5 @@
-# AdvanceDevopsLab
-This is Official GitHub Repository for Advance Devops Lab work Submissions.
 # 🌟 Advanced DevOps Lab - INFT Sem 5 (2024-25)
-
+This is Official GitHub Repository for Advance Devops Lab work Submissions.
 ## 📚 Overview
 
 Welcome to the **Advanced DevOps Lab** repository! This course, part of the INFT curriculum for Semester 5 (2024-25), is designed to immerse students in the practical aspects of DevOps. You'll learn to integrate development and operations by implementing automation, CI/CD, and infrastructure management.
@@ -67,7 +65,7 @@ The lab sessions are structured into modules, each focusing on different facets 
 To begin with the lab exercises, clone this repository to your local machine using the following command:
 
 ```bash
-git clone [https://github.com/yourusername/advanced-devops-lab.git](https://github.com/BKCODE2003/AdvanceDevopsLab.git)
-
+git clone https://github.com/BKCODE2003/AdvanceDevopsLab.git
+```
 ### 📧 Contact
 For any queries or issues, please reach out me at [2022.bhushan.kor@ves.ac.in].
