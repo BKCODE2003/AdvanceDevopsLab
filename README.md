@@ -67,4 +67,7 @@ The lab sessions are structured into modules, each focusing on different facets 
 To begin with the lab exercises, clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/advanced-devops-lab.git
+git clone [https://github.com/yourusername/advanced-devops-lab.git](https://github.com/BKCODE2003/AdvanceDevopsLab.git)
+
+### 📧 Contact
+For any queries or issues, please reach out me at [2022.bhushan.kor@ves.ac.in].
